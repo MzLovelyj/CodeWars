@@ -34,8 +34,3 @@ function songDecoder(song) {
 
 
 console.log(songDecoder(str));
-
-// var splitStr = str.split('WUB')
-// splitStr
-// var decodedStr = splitStr.join(" ");
-// decodedStr
