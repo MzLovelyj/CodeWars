@@ -12,6 +12,7 @@ It's a cool website where you face challenges and you get level up by how good y
 ### JavaScript:
 
 - [Dubstep](dubStep.js) - 6 kyu
+- [Convert String To CamelCase](convertStringToCamelCase.js) - 6 kyu
 - [Descending Order](descendingOrder.js) - 7 kyu
 - [List Filtering](list-filtering.js) - 7 kyu
 - [Reversed Strings](reversed-strings.js) - 8 kyu
