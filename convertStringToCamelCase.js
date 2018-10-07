@@ -14,9 +14,9 @@ function toCamelCase(str) {
     }
 
     if (str.indexOf("-") !== -1) {
-        strArray = str.split("-")
+        strArray = str.split("-");
     } else {
-        strArray = str.split("_")
+        strArray = str.split("_");
     }
 
     let cString = strArray[0];
