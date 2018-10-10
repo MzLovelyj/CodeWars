@@ -17,5 +17,6 @@ It's a cool website where you face challenges and you get level up by how good y
 - [Highest Scoring Word](highestScoringWord.js) - 6 kyu
 - [Descending Order](descendingOrder.js) - 7 kyu
 - [List Filtering](list-filtering.js) - 7 kyu
+- [Reverse Words](reversewords.js) - 7 kyu
 - [Reversed Strings](reversed-strings.js) - 8 kyu
 - [Multiply](multiply.js) - 8 kyu
