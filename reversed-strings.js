@@ -24,7 +24,8 @@ function solution(str) {
     // ["d", "l", "r", "o", "w"]
 
     //Step 3. Return the reversed string
-    return reverse.join("") // "dlrow"
+    return reverse.join("");
+    // "dlrow"
 }
 
 solution('world');
